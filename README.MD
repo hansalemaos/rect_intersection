@@ -5,7 +5,7 @@
 # Tested with:
 # Python 3.9.13
 # Windows 10
-
+$pip install rect-intersection
 from rect_intersection import intersects
 
 # Allowed formats for box1/box2 
